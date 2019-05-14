@@ -10,7 +10,7 @@ public class Average {
         {
             sum=sum+a[i];
         }
-        return sum;
+        return sum/n;
     }
     public static void main(String args[])
     {
